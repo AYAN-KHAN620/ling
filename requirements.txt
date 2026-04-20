@@ -1,4 +1,4 @@
 flask
-instagrapi
 requests
-gunicorn
+instagrapi
+rich
